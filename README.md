@@ -6,10 +6,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Kareem Jaber — Personal Webpage.">
-  <meta name="keywords" content="Kareem Jaber, Kareem, Princeton, mathematics, research, complex geometry, number theory, combinatorics, outreach, WebGL, games">
-  <meta property="og:title" content="Kareem Jaber — Personal Webpage">
-  <meta property="og:description" content="Student at Princeton University. Papers, research projects, outreach, and web projects including games and visualizations.">
+  <meta name="description" content="Shreya Sinha — Personal Webpage.">
+  <meta name="keywords" content="Shreya Sinha, Shreya, Sinha, Princeton, mathematics, research, topology, low-dimensional topology, symplectic topology, knot theory, geometry">
+  <meta property="og:title" content="Shreya Sinha — Personal Webpage">
+  <meta property="og:description" content="Student at Princeton University. Papers, research projects, and outreach.">
   <meta property="og:type" content="website">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -76,13 +76,13 @@
 <body>
 
   <div class = "flex-container">
-    <a class = "name-button" onclick = "index.html">Kareem's Website</a>
+    <a class = "name-button" onclick = "index.html">Shreya's Website</a>
     <div> 
       <!-- literally just a spacer -->
     </div>
     <a class = "menu-button" href = "index.html"> Home </a>
     <a class = "menu-button" href = "academic.html"> Papers </a>
-    <a class = "menu-button" href = "fun.html"> Fun Stuff </a>
+    <a class = "menu-button" href = "fun.html"> Other </a>
   </div>
 
   <div>
