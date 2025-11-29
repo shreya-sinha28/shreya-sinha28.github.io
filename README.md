@@ -71,7 +71,7 @@
         font-size: 17px;
       }
     </style>
-    <title>Kareem's Personal Webpage</title>
+    <title>Shreya's Personal Webpage</title>
 </head>
 <body>
 
@@ -91,7 +91,7 @@
     </div>
 
     <div style="position: absolute; left: 15%; top: 75px; width: 40%; padding: 10px;">
-      <h1>Kareem Jaber</h1>
+      <h1>Shreya Sinha</h1>
       <p> I am a senior at Princeton University pursuing a mathematics major with minors in Computer Science and Religion.  I'm primarily interested in low-dimensional topology, Floer theory, and classification problems in low dimensions. </p>
       <p> You can reach me at ss2340 at princeton dot edu. </p>
       <p> You can also find my resume <a href="Shreya Sinha - Fall 2025 Resume.pdf">here</a>. </p>
