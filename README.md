@@ -83,7 +83,7 @@
 
   <div>
     <div style="position: absolute; right: 15%; top: 250px; transform: translateY(-50%); padding: 10px;">
-      <img loading="lazy" src="filler.jpg" alt="Picture of me" style="width: 350px; border-radius: 25%;">
+      <img loading="lazy" src="shreya.jpg" alt="Picture of me" style="width: 350px; border-radius: 25%;">
     </div>
 
     <div style="position: absolute; left: 15%; top: 75px; width: 40%; padding: 10px;">
